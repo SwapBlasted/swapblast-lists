@@ -1,0 +1,49 @@
+{
+    "name": "SwapBlast Token List",
+    "timestamp": "2022-10-12T13:46:17.455Z",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 53
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "swapblast",
+      "default"
+    ],
+    "tokens": [
+       {
+            "name": "Wrapped ETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "SwapBlast Token",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "symbol": "SBL",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/zrbJWDc/base-logo.png"
+        },
+        {
+            "name": "xSwapBlast Token",
+            "address": "0xeF94C12Ba5Bb2bF56E19BABfa56880487FEA6E82",
+            "symbol": "xSBL",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/q9yb4VX/0xef94c12ba5bb2bf56e19babfa56880487fea6e82.png"
+        },
+        {
+            "name": "USD Base Coin",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "symbol": "USDbC",
+            "decimals": 6,
+            "chainId": 8453,
+            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+        }
+    ]
+  }
