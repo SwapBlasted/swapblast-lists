@@ -41,9 +41,9 @@
             "name": "USDB",
             "address": "0x4300000000000000000000000000000000000003",
             "symbol": "USDB",
-            "decimals": 6,
+            "decimals": 18,
             "chainId": 81457,
-            "logoURI": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Circle_USDC_Logo.svg"
+            "logoURI": "https://blastscan.io/token/images/usdb_32.png"
         }
     ]
   }
