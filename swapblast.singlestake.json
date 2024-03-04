@@ -14,15 +14,15 @@
   ],
   "active": [
     {
-      "token": "0x7e5c8CdEBdc26cE8125eeB8E72e81A03965Fca3C",
+      "token": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91",
       "stakingRewardAddress": "0x068F02F8573EefBEDe351cE90c588e88DbAE1198",
       "ended": false,
       "lp": "",
       "name": "",
       "depFee": "5",
       "burnFee": "0",
-      "baseToken": "0x7e5c8CdEBdc26cE8125eeB8E72e81A03965Fca3C",
-      "rate": 20000,
+      "baseToken": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91",
+      "rate": 16000,
       "ending": 1670921264,
       "stakingToken": "0x4300000000000000000000000000000000000004"
     }
