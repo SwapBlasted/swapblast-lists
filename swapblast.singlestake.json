@@ -25,6 +25,19 @@
       "rate": 16000,
       "ending": 1670921264,
       "stakingToken": "0x4300000000000000000000000000000000000004"
+    },
+    {
+      "token": "0x4300000000000000000000000000000000000004",
+      "stakingRewardAddress": "0x40e0640ae1ED3c2f022794F30d76D54611EF10ec",
+      "ended": false,
+      "lp": "",
+      "name": "",
+      "depFee": "5",
+      "burnFee": "0",
+      "baseToken": "0x4300000000000000000000000000000000000004",
+      "rate": 16000,
+      "ending": 1670921264,
+      "stakingToken": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91"
     }
   ],
   "closed": [
