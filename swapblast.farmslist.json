@@ -54,6 +54,26 @@
          "lpName": "ETH-USDB",
          "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
          "pair":"0xa3b24617c02B860A1B5Aa1CF9beB05d1b2c2629C"
+      },
+      {
+         "tokens":[
+            "0x4300000000000000000000000000000000000004",
+            "0x6a4698baa14d072A1A1D235c6990033230e2a50a"
+         ],
+         "stakingRewardAddress":"0xda8B7fb874d39f5dF3cA8C70988aB026999A7955",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x4300000000000000000000000000000000000004",
+         "rate": 20000,
+         "rewardsRatio1": 0.1,
+         "rewardsRatio2": 0.9,
+         "rewardsRatioPoints": 0,
+         "voteable": false,
+         "poolPid": 5,
+         "lpName": "AETH-ETH",
+         "rewardToken":"0xd07379a755A8f11B57610154861D694b2A0f615a",
+         "pair":"0x963980f7a74Ee89cc84a346402dB69C9CA39e5Ba"
       }
    ],
    "closed":[
