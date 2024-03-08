@@ -65,7 +65,7 @@
          "lp":"",
          "name":"",
          "baseToken":"0x4300000000000000000000000000000000000004",
-         "rate": 20000,
+         "rate": 5000,
          "rewardsRatio1": 0.1,
          "rewardsRatio2": 0.9,
          "rewardsRatioPoints": 0,
