@@ -52,6 +52,22 @@
             "decimals": 18,
             "chainId": 81457,
             "logoURI": "https://blastscan.io/token/images/usdb_32.png"
+        },
+        {
+            "name": "USD+",
+            "address": "0x4fEE793d435c6D2c10C135983BB9d6D4fC7B9BBd",
+            "symbol": "USD+",
+            "decimals": 18,
+            "chainId": 81457,
+            "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
+        },
+        {
+            "name": "USDC+",
+            "address": "0x870a8F46b62B8BDeda4c02530C1750CddF2ED32e",
+            "symbol": "USDC+",
+            "decimals": 18,
+            "chainId": 81457,
+            "logoURI": "https://i.ibb.co/rvZYSR8/usdcplus.png"
         }
     ]
   }
